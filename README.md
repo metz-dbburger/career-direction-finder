@@ -1,5 +1,7 @@
 # career-direction-finder
 
+中文 | [English](README.en.md)
+
 一个 Claude skill：根据你的过往经历和兴趣，推荐几类适合的工作，并在网上找到真实岗位的申请链接。
 
 ## 流程
